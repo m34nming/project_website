@@ -66,10 +66,9 @@
    #navbar ul li a.active{
      background: rgba{255, 255, 255, 0.1);
     }
-   }
 
   #hero {
-    background: url ("../image/hero_image.jpg")no-repeat center center/ cover;
+    background: url(../image/hero_image.jpg)no-repeat center center/cover;
     height: 600px;
   }
   
@@ -145,7 +144,7 @@
 
 /* testimonials section */
    #testimonials {
-     background: url ("../image/image1.jpg") no-repeat center center/cover;
+      background: url(../image/image1.jpg)no-repeat center center/cover;
      height: 600px;
      overflow: hidden;
    }
